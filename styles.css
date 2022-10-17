@@ -56,7 +56,7 @@ body {
     padding-top: 20%;
     height: 1000px;
     background-image: 
-    url("https://images.unsplash.com/photo-1512486130939-2c4f79935e4f?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1600&q=80");
+    url("https://images.unsplash.com/photo-1498409785966-ab341407de6e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=881&q=80");
     text-align: center;
     color: #fff;
     text-shadow: -2px 2px 2px black;
@@ -86,7 +86,7 @@ body {
 .who-are-we {
     height: 1000px;
     color: white;
-    background-image: url("https://images.unsplash.com/photo-1507537417841-81e85feb9bd2?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=634&q=80");
+    background-image: url("https://images.unsplash.com/photo-1573164713712-03790a178651?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=869&q=80");
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
@@ -96,21 +96,23 @@ body {
 
 .intro {
     color: white;
-    width: 40%;
-    float: right;
-    padding-right: 13%;
+    width: 80%;
+    padding: 55px 15px;
+    /* float: right; */
+    /* padding-right: 13%; */
 }
 
 .intro h2 {
     margin-top: 30px;
     font-size: 50px;
-    text-shadow: 1px 1px black;
+    text-shadow: 1px 2px black;
 }
 
 .intro p {
     margin-top: 20px;
     font-size: 25px;
     text-shadow: 1px 1px black;
+    width: 80%;
 }
 
 .additional-info {
@@ -132,7 +134,7 @@ body {
 
 .title {
     margin-top: 50%;
-    height: 90px; 
+    height: 100px; 
     width: 80%;
     background-color: rgba(0, 0, 0, 0.5);
     color: #fff;
